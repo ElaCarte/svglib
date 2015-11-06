@@ -18,6 +18,7 @@ pressed with gzip and extension .svgz).
 import sys
 import os
 import glob
+import string
 import types
 import re
 import operator
